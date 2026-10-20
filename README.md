@@ -35,7 +35,6 @@ sim/game_tb.v          testbench que juega dos partidas completas y revisa cada 
 goboard.pcf            pines de la Go Board
 pochoco_soc.svg        diagrama del SoC (del repositorio original)
 game_top.bin           bitstream ya compilado (respaldo para la demo)
-informe/               informe en LaTeX
 docs/                  explicación completa del proyecto
 ```
 
